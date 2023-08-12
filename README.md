@@ -78,6 +78,7 @@ tom-vs-jerry-image-classification/
 ## Results
 
 You can find the trained model weights and performance plots in the repository. The `tom_vs_jerry_1000_epochs.h5` file contains the saved weights after training for 1000 epochs. The `classification_model.ipynb` notebook provides step-by-step instructions for training the model and generating predictions.
+
 <img width="515" alt="image" src="https://github.com/FarzadMalik/keras_classifiction_model_inception_v3_tom_vs_jerry/assets/107833662/9b7710fb-8fd1-430d-8039-811cddccf700">
 
 ## Contributing
